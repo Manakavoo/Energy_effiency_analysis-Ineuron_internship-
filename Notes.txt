@@ -1,0 +1,39 @@
+the project is about the construction paramater to be considered when built a house . in this project we focuses on to determine the heating and cooling load of the building which can be affect by other external parameters such as relative compactness, roof area , orientation, wall area , glazing area and more 
+
+the main abjective of this projevt is to find the reason or parameters to optimise the heating load and cooling load which enables the good living and strength. so we want to analyse the key factors which are contibuting target variable (heat and cool load). 
+
+before go into analysis , we want to undestand the data and its features. because each of it represents certain values that are contributing the target.
+
+realtive_comapctness- the higher compactness will affect the thermal and energy effiency
+
+surface area - wall_area+ (roof_area *2)+ glazing_area
+
+wall area - this covers the external  side area of the house
+
+roof area- top area of the house
+
+glazing area - this covers the transparent area such as windows
+
+overall height - height of the building 
+
+orientation - In which side, the house facing such as south , north , west , east
+
+Correlation
+
+Positive
+
+relative_compactness  surface_area     -99.190146
+roof_area             overall_height   -97.251224
+relative_compactness  roof_area        -86.882341
+surface_area          overall_height   -85.814767
+
+Negative
+
+surface_area          roof_area                    88.071952
+relative_compactness  overall_height               82.774732
+
+
+
+
+
+
