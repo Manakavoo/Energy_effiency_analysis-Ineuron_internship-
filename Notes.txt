@@ -33,6 +33,27 @@ surface_area          roof_area                    88.071952
 relative_compactness  overall_height               82.774732
 
 
+Power Bi auto generate report
+
+﻿At 4,297.09, 3 had the highest Sum of heating_load and was 0.54% higher than 4, which had the lowest Sum of heating_load at 4,273.90.﻿﻿
+﻿﻿
+﻿﻿Sum of heating_load and total Sum of cooling_load are negatively correlated with each other.﻿﻿
+﻿﻿
+﻿﻿3 accounted for 25.08% of Sum of heating_load.﻿﻿
+﻿﻿
+﻿﻿Total Sum of surface_area was higher for 3.50 (286944) than 7 (228928).﻿﻿
+﻿﻿
+﻿﻿0.62 in overall_height 3.50 made up 10.03% of Sum of surface_area.﻿﻿
+﻿﻿
+﻿﻿Average Sum of surface_area was higher for 3.50 (47824) than 7 (38,154.67).﻿﻿
+﻿﻿
+﻿﻿Sum of cooling_load and Sum of heating_load diverged the most when the roof_area was 220.50, when Sum of cooling_load were 1,049.44 higher than Sum of heating_load.﻿﻿
+﻿﻿
+﻿﻿Across all 4 roof_area, Sum of heating_load ranged from 1,769.36 to 5,933.82 and Sum of cooling_load ranged from 1,869.89 to 6,347.49.﻿﻿
+﻿﻿
+﻿﻿Sum of surface_area for 3.50 (286944) was higher than 7 (228928).﻿﻿
+﻿﻿
+﻿
 
 
 
